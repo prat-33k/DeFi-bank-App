@@ -1,0 +1,22 @@
+/* Styles go here */
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #000000;
+    background-color: #D5F3FE;
+    border-color: #D5F3FE;
+}
+
+.nav-tabs {
+    color: #000000;
+    border-bottom: none;
+    width: max-content;
+}
+
+.nav-tabs .nav-link {  
+    color: #000000;
+    text-decoration: none;
+}
+
+body {
+	background-color: #D5F3FE;
+	color: #000000;
+}
